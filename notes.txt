@@ -1,0 +1,2 @@
+When using {% %} it is logic. For variable or dynamic value use {{}}. For more, see Jinja.
+  
